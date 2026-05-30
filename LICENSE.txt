@@ -17,4 +17,4 @@ JetBrains DataGrip Edition. Multi-engine database IDE with SQL editor, visual sc
 
 
 TAGS
-jetbrains-datagrip, datagrip, sql-ide, database-ide                          
+jetbrains-datagrip, datagrip, sql-ide, database-ide                           
